@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/multitrainer/static/css/main.21e9dd62.css",
-    "main.js": "/multitrainer/static/js/main.42b51713.js",
+    "main.css": "/multitrainer/static/css/main.b4cbef50.css",
+    "main.js": "/multitrainer/static/js/main.d4c5bd7f.js",
     "static/js/889.ba7c4a4d.chunk.js": "/multitrainer/static/js/889.ba7c4a4d.chunk.js",
     "index.html": "/multitrainer/index.html",
-    "main.21e9dd62.css.map": "/multitrainer/static/css/main.21e9dd62.css.map",
-    "main.42b51713.js.map": "/multitrainer/static/js/main.42b51713.js.map",
+    "main.b4cbef50.css.map": "/multitrainer/static/css/main.b4cbef50.css.map",
+    "main.d4c5bd7f.js.map": "/multitrainer/static/js/main.d4c5bd7f.js.map",
     "889.ba7c4a4d.chunk.js.map": "/multitrainer/static/js/889.ba7c4a4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21e9dd62.css",
-    "static/js/main.42b51713.js"
+    "static/css/main.b4cbef50.css",
+    "static/js/main.d4c5bd7f.js"
   ]
 }
