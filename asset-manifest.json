@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/multitrainer/static/css/main.f82f9386.css",
-    "main.js": "/multitrainer/static/js/main.121b28a1.js",
-    "static/js/889.ba7c4a4d.chunk.js": "/multitrainer/static/js/889.ba7c4a4d.chunk.js",
+    "main.css": "/multitrainer/static/css/main.7fa39f51.css",
+    "main.js": "/multitrainer/static/js/main.e0001cb2.js",
+    "static/js/453.b13c18be.chunk.js": "/multitrainer/static/js/453.b13c18be.chunk.js",
     "index.html": "/multitrainer/index.html",
-    "main.f82f9386.css.map": "/multitrainer/static/css/main.f82f9386.css.map",
-    "main.121b28a1.js.map": "/multitrainer/static/js/main.121b28a1.js.map",
-    "889.ba7c4a4d.chunk.js.map": "/multitrainer/static/js/889.ba7c4a4d.chunk.js.map"
+    "main.7fa39f51.css.map": "/multitrainer/static/css/main.7fa39f51.css.map",
+    "main.e0001cb2.js.map": "/multitrainer/static/js/main.e0001cb2.js.map",
+    "453.b13c18be.chunk.js.map": "/multitrainer/static/js/453.b13c18be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f82f9386.css",
-    "static/js/main.121b28a1.js"
+    "static/css/main.7fa39f51.css",
+    "static/js/main.e0001cb2.js"
   ]
 }
