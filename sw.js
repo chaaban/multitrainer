@@ -1,5 +1,5 @@
 // Keeps the game playable without internet. Change VERSION whenever a file changes.
-const VERSION = '2.0.0';
+const VERSION = '2.0.1';
 const CACHE = 'multitrainer-' + VERSION;
 const FILES = ['./', 'app.css?v=' + VERSION, 'engine.js?v=' + VERSION, 'monsters.js?v=' + VERSION, 'app.js?v=' + VERSION,
   'manifest.json', 'fonts/baloo-latin.woff2', 'fonts/baloo-latin-ext.woff2', 'fonts/baloo-arabic.woff2', 'sounds/clapping.wav',

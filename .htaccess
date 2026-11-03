@@ -1,0 +1,2 @@
+# The preview address of v2 now leads to the game itself.
+RedirectMatch 301 ^/multitrainer/v2(/.*)?$ /multitrainer/
